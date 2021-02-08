@@ -18,6 +18,11 @@ main {
   padding: 20px;
 }
 
+iframe {
+  width: 350px;
+  height: 200px;
+}
+
 aside {
   width: 100%;
   display: flex;
@@ -70,6 +75,11 @@ footer {
   .cover-image {
     width: 500px;
     height: 500px;
+  }
+
+  iframe {
+    width: 500px;
+    height: 350px;
   }
 
   /*  aside */
